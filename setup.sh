@@ -1,7 +1,8 @@
-
 cats=(
     'Intrinsic'
     'DSINE'
+    'SegmentAnything'
+    'ViTMatte'
 )
 
 for cat in "${cats[@]}"; do

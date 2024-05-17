@@ -1,0 +1,15 @@
+[submodule "DSINE-for-Nuke"]
+	path = DSINE-for-Nuke
+	url = https://github.com/vinavfx/DSINE-for-Nuke
+[submodule "Intrinsic-for-Nuke"]
+	path = Intrinsic-for-Nuke
+	url = https://github.com/vinavfx/Intrinsic-for-Nuke
+[submodule "SegmentAnything-for-Nuke"]
+	path = SegmentAnything-for-Nuke
+	url = https://github.com/vinavfx/SegmentAnything-for-Nuke.git
+[submodule "RIFE-for-Nuke"]
+	path = RIFE-for-Nuke
+	url = https://github.com/vinavfx/RIFE-for-Nuke
+[submodule "ViTMatte-for-Nuke"]
+	path = ViTMatte-for-Nuke
+	url = https://github.com/vinavfx/ViTMatte-for-Nuke
